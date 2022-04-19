@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/phamngocvinh/timevault">
-    <img src="images/TimeVault-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/TimeVault-logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">TimeVault</h3>
